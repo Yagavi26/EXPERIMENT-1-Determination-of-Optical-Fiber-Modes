@@ -61,4 +61,8 @@ Total number of modes = V^2 / 2 = 4.91^2 / 2
 
 ---
 ## Tabulation
+
+
+<img width="713" height="1280" alt="image" src="https://github.com/user-attachments/assets/da67978a-e7d4-455a-90cd-8dcf46933ce6" />
+
 ## Result
